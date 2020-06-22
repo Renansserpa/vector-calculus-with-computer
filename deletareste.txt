@@ -1,1 +1,1 @@
-deletar
+deletar 2 2 2
